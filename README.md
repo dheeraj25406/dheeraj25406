@@ -1,21 +1,43 @@
-# Hi there 👋 I'm Dheeraj Alamuri
+# 👋 Hi, I'm Dheeraj Alamuri
 
-🎓 B.Tech ECE @ IIIT Bhopal | AI/ML enthusiast  
-🤖 Building & deploying deep learning and NLP projects  
-🚀 Projects live on Hugging Face Spaces & Streamlit  
-📊 Love turning real-world data into interactive apps
+🎓 B.Tech in Electronics & Communication Engineering @ IIIT Bhopal  
+🤖 AI/ML enthusiast passionate about building real-world deep learning and NLP applications  
+🚀 I love turning data into interactive web apps using Streamlit, Hugging Face Spaces, and modern ML frameworks
 
-## 🔧 Technologies & Tools
-- Python, scikit-learn, TensorFlow, PyTorch, NumPy, Pandas
-- Streamlit, FastAPI, Hugging Face
-- Git, VS Code, Linux
+---
 
 ## 📦 Featured Projects
-- 🛰 **Wildfire Detection** – [Demo](link) | [GitHub](link)
-- ♟ **Chess Game Analyzer** – [Demo](link) | [GitHub](link)
 
-## 🌱 About me
-- Passionate about AI that makes real-world impact
-- Always learning, building, and sharing
+- 🛰 **Wildfire Detection using CNN + VGG16**  
+  Real-time satellite image classifier to detect wildfire risk.  
+  Achieved **90% test accuracy**, deployed with latency under ~600 ms.  
+  [🔗 Live Demo](link) | [💻 GitHub](link)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj25406&show_icons=true&theme=radical)
+- ♟ **Chess Game Analyzer (Stockfish + Streamlit)**  
+  Parses PGN files and analyzes player move accuracy using centipawn loss.  
+  Classifies moves as best, inaccuracies, or blunders using Stockfish engine.  
+  [🔗 Live Demo](link) | [💻 GitHub](link)
+
+---
+
+## 🛠 Tech Stack & Tools
+
+- Languages: Python, C++, Java, C, SQL
+- Libraries: scikit-learn, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib, Seaborn
+- Tools & Platforms: Streamlit, Hugging Face, Git, VS Code, Kaggle
+
+---
+
+## 🌱 What I'm currently exploring
+
+- Deploying ML models with FastAPI & Docker
+- Real-time NLP applications
+- Improving project latency & scalability
+
+---
+
+## 📫 How to reach me
+
+- ✉️ Email: [23U01077@iiitbhopal.ac.in](mailto:23U01077@iiitbhopal.ac.in)
+- 🌐 LinkedIn: [linkedin.com/in/dheeraj-alamuri](https://linkedin.com/in/dheeraj-alamuri)
+- 💻 GitHub: [github.com/dheeraj25406](https://github.com/dheeraj25406)
