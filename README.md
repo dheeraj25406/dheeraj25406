@@ -11,12 +11,12 @@
 - 🛰 **Wildfire Detection using CNN + VGG16**  
   Real-time satellite image classifier to detect wildfire risk.  
   Achieved **90% test accuracy**, deployed with latency under ~600 ms.  
-  [🔗 Live Demo](https://huggingface.co/spaces/DheerajAlamuri/wildfire-predictor) | [💻 GitHub](link)
+  [🔗 Live Demo](https://huggingface.co/spaces/DheerajAlamuri/wildfire-predictor) | [💻 GitHub](https://github.com/dheeraj25406/wildfire-predictor)
 
 - ♟ **Chess Game Analyzer (Stockfish + Streamlit)**  
   Parses PGN files and analyzes player move accuracy using centipawn loss.  
   Classifies moves as best, inaccuracies, or blunders using Stockfish engine.  
-  [🔗 Live Demo](https://huggingface.co/spaces/DheerajAlamuri/chess-game-analyzer) | [💻 GitHub](link)
+  [🔗 Live Demo](https://huggingface.co/spaces/DheerajAlamuri/chess-game-analyzer) | [💻 GitHub](https://github.com/dheeraj25406/chess-game-analyzer)
 
 ---
 
