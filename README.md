@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Dheeraj Alamuri
 
-<!--
-**dheeraj25406/dheeraj25406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE @ IIIT Bhopal | AI/ML enthusiast  
+🤖 Building & deploying deep learning and NLP projects  
+🚀 Projects live on Hugging Face Spaces & Streamlit  
+📊 Love turning real-world data into interactive apps
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Python, scikit-learn, TensorFlow, PyTorch, NumPy, Pandas
+- Streamlit, FastAPI, Hugging Face
+- Git, VS Code, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Featured Projects
+- 🛰 **Wildfire Detection** – [Demo](link) | [GitHub](link)
+- ♟ **Chess Game Analyzer** – [Demo](link) | [GitHub](link)
+
+## 🌱 About me
+- Passionate about AI that makes real-world impact
+- Always learning, building, and sharing
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj25406&show_icons=true&theme=radical)
