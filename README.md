@@ -39,5 +39,5 @@
 ## 📫 How to reach me
 
 - ✉️ Email: [23U01077@iiitbhopal.ac.in](mailto:23U01077@iiitbhopal.ac.in)
-- 🌐 LinkedIn: [linkedin.com/in/dheeraj-alamuri](https://linkedin.com/in/dheeraj-alamuri)
+- 🌐 LinkedIn: [dheeraj-alamuri](https://in.linkedin.com/in/dheeraj-alamuri-b09165280)
 - 💻 GitHub: [github.com/dheeraj25406](https://github.com/dheeraj25406)
