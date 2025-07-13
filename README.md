@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Dheeraj Alamuri
 
 🎓 B.Tech in Electronics & Communication Engineering @ IIIT Bhopal  
+💻 Actively mastering **Data Structures and Algorithms** through structured problem solving (Striver’s Sheet)  
 🤖 AI/ML enthusiast passionate about building real-world deep learning and NLP applications  
 🚀 I love turning data into interactive web apps using Streamlit, Hugging Face Spaces, and modern ML frameworks
 
@@ -22,22 +23,23 @@
 
 ## 🛠 Tech Stack & Tools
 
-- Languages: Python, C++, Java, C, SQL
-- Libraries: scikit-learn, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib, Seaborn
+- Languages: Python, C++, Java, C, SQL  
+- Libraries: scikit-learn, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib, Seaborn  
 - Tools & Platforms: Streamlit, Hugging Face, Git, VS Code, Kaggle
 
 ---
 
 ## 🌱 What I'm currently exploring
 
-- Deploying ML models with FastAPI & Docker
-- Real-time NLP applications
+- Mastering Data Structures and Algorithms using Striver’s Sheet  
+- Deploying ML models with FastAPI & Docker  
+- Real-time NLP applications  
 - Improving project latency & scalability
 
 ---
 
 ## 📫 How to reach me
 
-- ✉️ Email: [23U01077@iiitbhopal.ac.in](mailto:23U01077@iiitbhopal.ac.in)
-- 🌐 LinkedIn: [dheeraj-alamuri](https://in.linkedin.com/in/dheeraj-alamuri-b09165280)
+- ✉️ Email: [23U01077@iiitbhopal.ac.in](mailto:23U01077@iiitbhopal.ac.in)  
+- 🌐 LinkedIn: [dheeraj-alamuri](https://in.linkedin.com/in/dheeraj-alamuri-b09165280)  
 - 💻 GitHub: [github.com/dheeraj25406](https://github.com/dheeraj25406)
