@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dheeraj Alamuri
 
 🎓 B.Tech in Electronics & Communication Engineering @ IIIT Bhopal  
-💻 Actively mastering **Data Structures and Algorithms** through structured problem solving (Striver’s Sheet)  
+💻 Actively mastering **Data Structures and Algorithms** through structured problem solving  
 🤖 AI/ML enthusiast passionate about building real-world deep learning and NLP applications  
 🚀 I love turning data into interactive web apps using Streamlit, Hugging Face Spaces, and modern ML frameworks
 
