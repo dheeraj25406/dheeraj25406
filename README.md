@@ -1,45 +1,109 @@
-# 👋 Hi, I'm Dheeraj Alamuri
+<p align="center">
+  <img src="Banner1.gif" width="400" height="300" alt="Banner"/>
+</p>
 
-🎓 B.Tech in Electronics & Communication Engineering @ IIIT Bhopal  
-💻 Actively mastering **Data Structures and Algorithms** through structured problem solving  
-🤖 AI/ML enthusiast passionate about building real-world deep learning and NLP applications  
-🚀 I love turning data into interactive web apps using Streamlit, Hugging Face Spaces, and modern ML frameworks
+<hr>
 
----
+## ⚡ Languages, Tools & Technologies
 
-## 📦 Featured Projects
+<table>
+  <tr>
+    <td><strong>Frontend & Design</strong></td>
+    <td><strong>Version Control</strong></td>
+    <td><strong>Editors</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,figma" alt="Frontend techs"/>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,bash&theme=dark" alt="Version control"/>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Editor"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><strong>Databases</strong></td>
+    <td><strong>Systems</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,cs&theme=dark" alt="Languages"/>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu&theme=dark" alt="Systems"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend & Cloud</strong></td>
+    <td><strong>Miscellaneous</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=express,django&theme=dark" alt="Backend & cloud"/>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=anaconda,raspberrypi,arduino&theme=dark" alt="Misc"/>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-- 🛰 **Wildfire Detection using CNN + VGG16**  
-  Real-time satellite image classifier to detect wildfire risk.  
-  Achieved **90% test accuracy**, deployed with latency under ~600 ms.  
-  [🔗 Live Demo](https://huggingface.co/spaces/DheerajAlamuri/wildfire-predictor) | [💻 GitHub](https://github.com/dheeraj25406/wildfire-predictor)
+<hr>
 
-- ♟ **Chess Game Analyzer (Stockfish + Streamlit)**  
-  Parses PGN files and analyzes player move accuracy using centipawn loss.  
-  Classifies moves as best, inaccuracies, or blunders using Stockfish engine.  
-  [🔗 Live Demo](https://huggingface.co/spaces/DheerajAlamuri/chess-game-analyzer) | [💻 GitHub](https://github.com/dheeraj25406/chess-game-analyzer)
+## 👨‍💻 Competitive Coding Profile
 
----
+<table style="width:100%; text-align:center; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; padding:10px;">
+      <h3>LeetCode • CodeChef • Codeforces</h3>
+      <!-- Update the username in the URL below with your own GitHub/alias if any -->
+      <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=unicorn&extension=activity" style="max-width:100%; height:auto; display:block; margin:0 auto;" alt="LeetCode Stats"/>
+    </td>
+    <td style="width:50%; padding:10px;">
+      <h3>GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=dark" style="max-width:100%; height:auto; display:block; margin:0 auto;" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=6&hide_border=true&layout=compact&theme=dark" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-## 🛠 Tech Stack & Tools
+<hr>
 
-- Languages: Python, C++, Java, C, SQL  
-- Libraries: scikit-learn, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib, Seaborn  
-- Tools & Platforms: Streamlit, Hugging Face, Git, VS Code, Kaggle
+## 🎯 About Me
 
----
+Hi, I'm **Dheeraj** — a 3rd-year IIIT Bhopal student, passionate about AI, DS & Algorithms, and building impactful projects.  
+I love playing chess and guitar 🎸, and I’m always learning something new.
 
-## 🌱 What I'm currently exploring
+<hr>
 
-- Mastering Data Structures and Algorithms using Striver’s Sheet  
-- Deploying ML models with FastAPI & Docker  
-- Real-time NLP applications  
-- Improving project latency & scalability
+## 🔗 Connect With Me
 
----
-
-## 📫 How to reach me
-
-- ✉️ Email: [23U01077@iiitbhopal.ac.in](mailto:23U01077@iiitbhopal.ac.in)  
-- 🌐 LinkedIn: [dheeraj-alamuri](https://in.linkedin.com/in/dheeraj-alamuri-b09165280)  
-- 💻 GitHub: [github.com/dheeraj25406](https://github.com/dheeraj25406)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn"/>
+      </a>
+      <p><strong>LinkedIn</strong></p>
+    </td>
+    <td align="center">
+      <a href="mailto:YOUR_EMAIL@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" height="50" alt="Email"/>
+      </a>
+      <p><strong>Email</strong></p>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
+        <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="50" height="50" alt="Twitter"/>
+      </a>
+      <p><strong>Twitter</strong></p>
+    </td>
+  </tr>
+</table>
