@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-glitch.vercel.app/api?text=Dheeraj%0AAlamuri&textColor=1EB5FF&bgColor=F9E000&width=900&height=200&fontSize=60" />
+  <img 
+    src="https://svg-banners.vercel.app/api?type=glitch&text1=Dheeraj%0AAlamuri&width=900&height=200&color=%231EB5FF&bgColor=%23F9E000"
+  />
 </p>
 
 
