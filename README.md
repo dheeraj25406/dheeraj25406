@@ -1,61 +1,121 @@
 <p align="center">
-  <img src="Banner1.gif" width="400" height="300"/>
+  <img src="Banner1.gif" width="400" height="300" alt="Banner"/>
 </p>
 
-# 👋 Hi, I’m **Dheeraj**
+<h1 align="center">Hi, I'm <span style="color:#6EE7B7;">Dheeraj Alamuri</span> 👋</h1>
 
-**B.Tech Student | Aspiring Generative-AI Engineer | Competitive Coder & Guitar Enthusiast**
+<p align="center">
+  <b>AI/ML Developer • Competitive Programmer • Full-Stack Learner</b>
+</p>
 
----
+<hr>
 
 ## ⚡ Languages, Tools & Technologies
 
-| Frontend & Design | Version Control | Editors / IDEs |
-|------------------|-----------------|----------------|
-| ![html](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,figma) | ![git](https://skillicons.dev/icons?i=git,github,bash&theme=dark) | ![vscode](https://skillicons.dev/icons?i=vscode&theme=dark) |
+<table>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td><strong>AI/ML Libraries</strong></td>
+    <td><strong>Developer Tools</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,py&theme=dark">
+    </td>
+  </tr>
 
-| Languages | Databases | Operating Systems |
-|----------|-----------|-------------------|
-| ![python & c++](https://skillicons.dev/icons?i=python,cpp&theme=dark) | ![mysql & mongodb](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark) | ![linux & windows](https://skillicons.dev/icons?i=linux,windows,ubuntu&theme=dark) |
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td><strong>Backend</strong></td>
+    <td><strong>Databases</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,bootstrap&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark">
+    </td>
+  </tr>
 
-| Backend & Cloud | Miscellaneous / Electronics |  |
-|----------------|-----------------------------|--|
-| ![express & django](https://skillicons.dev/icons?i=express,django&theme=dark) | ![raspberrypi & arduino](https://skillicons.dev/icons?i=raspberrypi,arduino,anaconda&theme=dark) |  |
+  <tr>
+    <td><strong>Cloud & DevOps</strong></td>
+    <td><strong>Data Tools</strong></td>
+    <td><strong>Other Skills</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,docker,azure,kubernetes&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=redis&theme=dark">
+      <br>Apache Kafka, JupyterLab
+    </td>
+    <td>
+      HuggingFace, Streamlit, Linux, Raspberry Pi, Arduino
+    </td>
+  </tr>
+</table>
 
----
+<hr>
 
-## 💻 Competitive Coding & Activity
+## 👨‍💻 Competitive Programming
 
-| Platform | Stats |
-|----------|-------|
-| **LeetCode** | *(Add your profile link / badge here)* |
-| **Codeforces** | *(Add your handle / badge here)* |
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td style="width:50%; padding:10px;">
+      <h3>LeetCode</h3>
+      <img src="https://leetcard.jacoblin.cool/drunk_magnuscarlsen?theme=dark&extension=activity" />
+    </td>
+    <td style="width:50%; padding:10px;">
+      <h3>GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=dheeraj25406&show_icons=true&theme=tokyonight&hide_border=true" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj25406&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=2e3440&hide_border=true&point=true&line=81a1c1&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff&line_width=2&since=2023-11-01)
+<hr>
 
-| GitHub Stats | Top Languages |
-|--------------|----------------|
-| ![github stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord) | ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=6&hide_border=true&border_radius=4.5&layout=compact&theme=nord) |
+## 📈 GitHub Activity
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheeraj25406&theme=react-dark&hide_border=true&area=true">
+</p>
 
-## 🎯 What I’m Doing
+<hr>
 
-- Pursuing B.Tech at IIIT Bhopal — aiming for a career as a Generative-AI Engineer.  
-- Working on personal projects:  
-  - AI-powered DSA code complexity analyzer & optimizer  
-  - Real-time financial sentiment analytics platform  
-  - Decentralized gig-reputation network using SSI  
-- Consistently solving DSA problems (arrays, trees, graphs, DP …) to gear up for SDE placements (~40 LPA+).  
-- Playing guitar, coding, and exploring ML / generative-AI on weekends 🧠  
+## 🔗 Connect With Me
 
----
-
-## 🔗 Let’s Connect
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](YOUR_LINKEDIN_URL) &nbsp;  
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:YOUR_EMAIL) &nbsp;  
-[![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](YOUR_TWITTER_URL)
-
----
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/dheeraj-alamuri254/">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50"/>
+      </a>
+      <p><strong>LinkedIn</strong></p>
+    </td>
+    <td align="center">
+      <a href="mailto:adheerajhyd@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50"/>
+      </a>
+      <p><strong>Email</strong></p>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/drunk_magnuscarlsen/">
+        <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="50"/>
+      </a>
+      <p><strong>LeetCode</strong></p>
+    </td>
+  </tr>
+</table>
