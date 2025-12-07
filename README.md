@@ -1,109 +1,61 @@
 <p align="center">
-  <img src="Banner1.gif" width="400" height="300" alt="Banner"/>
+  <img src="Banner1.gif" width="400" height="300"/>
 </p>
 
-<hr>
+# 👋 Hi, I’m **Dheeraj**
+
+**B.Tech Student | Aspiring Generative-AI Engineer | Competitive Coder & Guitar Enthusiast**
+
+---
 
 ## ⚡ Languages, Tools & Technologies
 
-<table>
-  <tr>
-    <td><strong>Frontend & Design</strong></td>
-    <td><strong>Version Control</strong></td>
-    <td><strong>Editors</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,figma" alt="Frontend techs"/>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,bash&theme=dark" alt="Version control"/>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Editor"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td><strong>Databases</strong></td>
-    <td><strong>Systems</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,cs&theme=dark" alt="Languages"/>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu&theme=dark" alt="Systems"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend & Cloud</strong></td>
-    <td><strong>Miscellaneous</strong></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=express,django&theme=dark" alt="Backend & cloud"/>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=anaconda,raspberrypi,arduino&theme=dark" alt="Misc"/>
-    </td>
-    <td></td>
-  </tr>
-</table>
+| Frontend & Design | Version Control | Editors / IDEs |
+|------------------|-----------------|----------------|
+| ![html](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,figma) | ![git](https://skillicons.dev/icons?i=git,github,bash&theme=dark) | ![vscode](https://skillicons.dev/icons?i=vscode&theme=dark) |
 
-<hr>
+| Languages | Databases | Operating Systems |
+|----------|-----------|-------------------|
+| ![python & c++](https://skillicons.dev/icons?i=python,cpp&theme=dark) | ![mysql & mongodb](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark) | ![linux & windows](https://skillicons.dev/icons?i=linux,windows,ubuntu&theme=dark) |
 
-## 👨‍💻 Competitive Coding Profile
+| Backend & Cloud | Miscellaneous / Electronics |  |
+|----------------|-----------------------------|--|
+| ![express & django](https://skillicons.dev/icons?i=express,django&theme=dark) | ![raspberrypi & arduino](https://skillicons.dev/icons?i=raspberrypi,arduino,anaconda&theme=dark) |  |
 
-<table style="width:100%; text-align:center; border-collapse:collapse;">
-  <tr>
-    <td style="width:50%; padding:10px;">
-      <h3>LeetCode • CodeChef • Codeforces</h3>
-      <!-- Update the username in the URL below with your own GitHub/alias if any -->
-      <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=unicorn&extension=activity" style="max-width:100%; height:auto; display:block; margin:0 auto;" alt="LeetCode Stats"/>
-    </td>
-    <td style="width:50%; padding:10px;">
-      <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=dark" style="max-width:100%; height:auto; display:block; margin:0 auto;" alt="GitHub Stats"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=6&hide_border=true&layout=compact&theme=dark" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+---
 
-<hr>
+## 💻 Competitive Coding & Activity
 
-## 🎯 About Me
+| Platform | Stats |
+|----------|-------|
+| **LeetCode** | *(Add your profile link / badge here)* |
+| **Codeforces** | *(Add your handle / badge here)* |
 
-Hi, I'm **Dheeraj** — a 3rd-year IIIT Bhopal student, passionate about AI, DS & Algorithms, and building impactful projects.  
-I love playing chess and guitar 🎸, and I’m always learning something new.
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=2e3440&hide_border=true&point=true&line=81a1c1&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff&line_width=2&since=2023-11-01)
 
-<hr>
+| GitHub Stats | Top Languages |
+|--------------|----------------|
+| ![github stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord) | ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=6&hide_border=true&border_radius=4.5&layout=compact&theme=nord) |
 
-## 🔗 Connect With Me
+---
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn"/>
-      </a>
-      <p><strong>LinkedIn</strong></p>
-    </td>
-    <td align="center">
-      <a href="mailto:YOUR_EMAIL@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" height="50" alt="Email"/>
-      </a>
-      <p><strong>Email</strong></p>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
-        <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="50" height="50" alt="Twitter"/>
-      </a>
-      <p><strong>Twitter</strong></p>
-    </td>
-  </tr>
-</table>
+## 🎯 What I’m Doing
+
+- Pursuing B.Tech at IIIT Bhopal — aiming for a career as a Generative-AI Engineer.  
+- Working on personal projects:  
+  - AI-powered DSA code complexity analyzer & optimizer  
+  - Real-time financial sentiment analytics platform  
+  - Decentralized gig-reputation network using SSI  
+- Consistently solving DSA problems (arrays, trees, graphs, DP …) to gear up for SDE placements (~40 LPA+).  
+- Playing guitar, coding, and exploring ML / generative-AI on weekends 🧠  
+
+---
+
+## 🔗 Let’s Connect
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](YOUR_LINKEDIN_URL) &nbsp;  
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:YOUR_EMAIL) &nbsp;  
+[![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](YOUR_TWITTER_URL)
+
+---
+
