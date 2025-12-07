@@ -2,7 +2,10 @@
   <img src="Banner1.gif" width="400" height="300" alt="Banner"/>
 </p>
 
-<h1 align="center"> Its <span style="color:#6EE7B7;">Dheeraj Alamuri</span> </h1>
+<p align="center">
+  <img src="https://readme-glitch.vercel.app/api?text=Dheeraj%0AAlamuri&textColor=1EB5FF&bgColor=F9E000&width=900&height=200&fontSize=60" />
+</p>
+
 
 <p align="center">
   <b>AI/ML Developer • Competitive Programmer • Full-Stack Learner</b>
@@ -49,7 +52,7 @@
 
   <tr>
     <td><strong>Cloud & DevOps</strong></td>
-    <td><strong>Data Tools</strong></td>
+    <td><strong>Systems</strong></td>
     <td><strong>Other Skills</strong></td>
   </tr>
   <tr>
@@ -57,11 +60,10 @@
       <img src="https://skillicons.dev/icons?i=aws,docker,azure,kubernetes&theme=dark">
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=redis&theme=dark">
-      <br>Apache Kafka, JupyterLab
+      <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu&theme=dark">
     </td>
     <td>
-      HuggingFace, Streamlit, Linux, Raspberry Pi, Arduino
+      <img src="https://skillicons.dev/icons?i=anaconda,arduino&theme=dark">
     </td>
   </tr>
 </table>
@@ -111,12 +113,6 @@
         <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50"/>
       </a>
       <p><strong>Email</strong></p>
-    </td>
-    <td align="center">
-      <a href="https://leetcode.com/u/drunk_magnuscarlsen/">
-        <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="50"/>
-      </a>
-      <p><strong>LeetCode</strong></p>
     </td>
   </tr>
 </table>
