@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Dheeraj Alamuri">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#F9E000"/>
+      <stop offset="1" stop-color="#F9E000"/>
+    </linearGradient>
+
+    <filter id="glitch">
+      <!-- small horizontal displacement layers -->
+      <feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0  0 0 0 0 0  0 0 1 0 0  0 0 0 1 0" result="blueOnly"/>
+      <feOffset in="blueOnly" dx="-6" dy="0" result="blueOff"/>
+      <feComposite in="blueOff" in2="SourceGraphic" operator="in" result="blueComp"/>
+      <feBlend in="SourceGraphic" in2="blueComp" mode="screen"/>
+
+      <!-- noise -->
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="turb"/>
+      <feDisplacementMap in="SourceGraphic" in2="turb" scale="4" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+
+    <!-- small animated clip stripes -->
+    <mask id="stripes">
+      <rect width="100%" height="100%" fill="#fff"/>
+      <rect id="stripe1" x="-200" y="0" width="200" height="200" fill="#000" opacity="0.08">
+        <animate attributeName="x" from="-200" to="900" dur="3s" repeatCount="indefinite"/>
+      </rect>
+      <rect id="stripe2" x="900" y="0" width="150" height="200" fill="#000" opacity="0.05">
+        <animate attributeName="x" from="900" to="-300" dur="4.2s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+
+    <style>
+      .title{ font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size:64px; font-style:italic; font-weight:700; fill:#1EB5FF; letter-spacing:2px; }
+      .title-small{ font-size:56px; }
+      .shadow{ fill:#000000; opacity:0.14; filter: blur(4px); }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+
+  <!-- subtle shadow copy for depth -->
+  <g transform="translate(6,8)" opacity="0.16">
+    <text x="50%" y="55" class="title" text-anchor="middle">Dheeraj</text>
+    <text x="50%" y="120" class="title title-small" text-anchor="middle">Alamuri</text>
+  </g>
+
+  <!-- main text group with glitch filter and stripes mask -->
+  <g filter="url(#glitch)" mask="url(#stripes)">
+    <text x="50%" y="50" class="title" text-anchor="middle" dominant-baseline="middle">Dheeraj</text>
+    <text x="50%" y="115" class="title title-small" text-anchor="middle" dominant-baseline="middle">Alamuri</text>
+  </g>
+
+  <!-- colored RGB shift layers (for extra glitch color) -->
+  <g opacity="0.85">
+    <text x="50%" y="50" class="title" text-anchor="middle" fill="#79FFFF" transform="translate(-4,0)" opacity="0.6">Dheeraj</text>
+    <text x="50%" y="115" class="title title-small" text-anchor="middle" fill="#79FFFF" transform="translate(-4,0)" opacity="0.55">Alamuri</text>
+
+    <text x="50%" y="50" class="title" text-anchor="middle" fill="#FFD54F" transform="translate(5,0)" opacity="0.45">Dheeraj</text>
+    <text x="50%" y="115" class="title title-small" text-anchor="middle" fill="#FFD54F" transform="translate(5,0)" opacity="0.35">Alamuri</text>
+  </g>
+</svg>
