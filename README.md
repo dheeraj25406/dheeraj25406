@@ -2,7 +2,7 @@
   <img src="Banner1.gif" width="400" height="300" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#6EE7B7;">Dheeraj Alamuri</span> 👋</h1>
+<h1 align="center"> Its <span style="color:#6EE7B7;">Dheeraj Alamuri</span> </h1>
 
 <p align="center">
   <b>AI/ML Developer • Competitive Programmer • Full-Stack Learner</b>
@@ -68,19 +68,20 @@
 
 <hr>
 
-## 👨‍💻 Competitive Programming
+## 👨‍💻 Competitive Coding Profile
 
-<table style="width:100%; text-align:center;">
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
   <tr>
-    <td style="width:50%; padding:10px;">
-      <h3>LeetCode</h3>
-      <img src="https://leetcard.jacoblin.cool/drunk_magnuscarlsen?theme=dark&extension=activity" />
+    <!-- Leetcode Section (1st Column) -->
+    <td style="width: 50%; padding: 10px; text-align: center;">
+      <h3>Leetcode Info</h3>
+      <img src="https://leetcard.jacoblin.cool/drunk_magnuscarlsen ?theme=unicorn&extension=activity" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     </td>
-    <td style="width:50%; padding:10px;">
-      <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=dheeraj25406&show_icons=true&theme=tokyonight&hide_border=true" />
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj25406&layout=compact&theme=tokyonight&hide_border=true" />
+
+  
+  <td style="width: 50%; padding: 10px; text-align: center;">
+      <h3>Codeforces Info</h3>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=dheerajalamuri" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     </td>
   </tr>
 </table>
