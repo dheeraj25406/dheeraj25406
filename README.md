@@ -94,11 +94,9 @@
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheeraj25406&theme=react-dark&hide_border=true&area=true">
-</p>
+<br clear="both">
 
-<hr>
+<img src="https://raw.githubusercontent.com/dheeraj25406/dheeraj25406/output/snake.svg" alt="Snake animation" />
 
 ## 🔗 Connect With Me
 
