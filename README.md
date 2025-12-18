@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <b>AI/ML Developer • Competitive Programmer • Full-Stack Learner</b>
+  <b>AI/ML Developer | Competitive Programmer | FullStack Learner</b>
 </p>
 
 <hr>
