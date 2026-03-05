@@ -18,56 +18,50 @@
 ## ⚡ Languages, Tools & Technologies
 
 <table>
-  <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td><strong>AI/ML Libraries</strong></td>
-    <td><strong>Developer Tools</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript&theme=dark">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,py&theme=dark">
-    </td>
-  </tr>
+<tr>
+<td><strong>Programming Languages</strong></td>
+<td><strong>AI / ML Libraries</strong></td>
+<td><strong>Developer Tools</strong></td>
+</tr>
 
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td><strong>Backend</strong></td>
-    <td><strong>Databases</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,bootstrap&theme=dark">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark">
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java&theme=dark">
+</td>
 
-  <tr>
-    <td><strong>Cloud & DevOps</strong></td>
-    <td><strong>Systems</strong></td>
-    <td><strong>Other Skills</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws,docker,azure,kubernetes&theme=dark">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu&theme=dark">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=anaconda,arduino&theme=dark">
-    </td>
-  </tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark">
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark">
+</td>
+</tr>
+
+<tr>
+<td><strong>Data & ML Stack</strong></td>
+<td><strong>Databases</strong></td>
+<td><strong>Cloud & Platforms</strong></td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=anaconda&theme=dark">
+<br><br>
+NumPy • Pandas • Transformers • Streamlit
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark">
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes&theme=dark">
+<br><br>
+HuggingFace • CI/CD
+</td>
+</tr>
+
 </table>
 
 <hr>
