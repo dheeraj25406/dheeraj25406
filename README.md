@@ -48,7 +48,7 @@
 <td align="center">
 <img src="https://skillicons.dev/icons?i=anaconda&theme=dark">
 <br><br>
-NumPy • Pandas • Transformers • Streamlit
+NumPy | Pandas | Transformers | Streamlit
 </td>
 
 <td align="center">
@@ -58,7 +58,7 @@ NumPy • Pandas • Transformers • Streamlit
 <td align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes&theme=dark">
 <br><br>
-HuggingFace • CI/CD
+HuggingFace | CI/CD
 </td>
 </tr>
 
