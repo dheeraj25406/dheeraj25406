@@ -11,12 +11,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=9CA3AF&vCenter=true&width=700&lines=B.Tech+%40+IIIT+Bhopal;Backend+Developer;AI+ML+Engineer)](https://git.io/typing-svg)
 
-# About Me:
-
-B.Tech @ IIIT Bhopal<br>
-Backend Developer<br>
-AI ML Engineer<br>
-<br>
 
 <hr>
 
